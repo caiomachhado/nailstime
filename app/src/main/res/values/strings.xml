@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">NailsTime</string>
-    <string name="titleMainActivity">Unhas de Hoje</string>
+    <string name="titleMainActivity">NailsTime</string>
     <string name="textPat">Texto em Construção</string>
+    <string name="marcarHorario">Marcar Horário</string>
+    <string name="verAgenda">Agenda</string>
 </resources>
