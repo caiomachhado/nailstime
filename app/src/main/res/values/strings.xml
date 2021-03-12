@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NailsTime</string>
+    <string name="titleMainActivity">Unhas de Hoje</string>
 </resources>
