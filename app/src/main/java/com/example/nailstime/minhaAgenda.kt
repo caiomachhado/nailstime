@@ -10,13 +10,4 @@ class minhaAgenda : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_minha_agenda)
 
-        var buttonAgenda : AppCompatButton = findViewById(R.id.verAgenda)
-        var buttonHorario : AppCompatButton = findViewById(R.id.marcarHorario)
-
-        buttonAgenda.setOnClickListener {
-            Intent intent = new Intent(this, minhaAgenda)
-            startActivity(intent)
-        }
-
-    }
 }
